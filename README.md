@@ -1,0 +1,2 @@
+# LearnJavaScript
+JavaScript Core Code
