@@ -1,2 +1,2 @@
 # LearnJavaScript
-JavaScript Core Code
+JavaScript Core Code learned from Javascript: A Definitive Guide
