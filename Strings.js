@@ -9,7 +9,7 @@ line"
 
 var str = "This is a sentence to test javascript string variable"
 
-console.log(str.charAt(0), str.length-1, str.substring(1,4), str.slice(1,4))
+console.log(str[0], str.charAt(0), str.length-1, str.substring(1,4), str.slice(1,4))
 
 console.log(str.indexOf("a"), str.lastIndexOf("a"), str.indexOf("j", 2))
 
